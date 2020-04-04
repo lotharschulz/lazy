@@ -10,7 +10,7 @@ compile
 
 decompile
 ```bash
-procyon build/classes/kotlin/main/DearLazyKt
+procyon build/classes/kotlin/main/lazy/DearLazyKt
 ```
 
 run

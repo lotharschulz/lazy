@@ -7,7 +7,7 @@ plugins {
 group = "org.example"
 version = "1.0-SNAPSHOT"
 
-val mainClass by extra("DearLazyKt")
+val mainClass by extra("lazy/DearLazyKt")
 
 application {
     mainClassName = mainClass

@@ -1,16 +1,21 @@
 clean
 ```editorconfig
-gradle clean
+./gradlew clean
 ```
 
 compile
 ```editorconfig
-gradle build
+./gradlew build
 ```
 
 decompile
 ```bash
 procyon build/classes/kotlin/main/DearLazyKt
+```
+
+run
+```editorconfig
+./gradlew run
 ```
 
 ------

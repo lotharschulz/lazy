@@ -47,6 +47,8 @@ test
 ./gradlew clean test run && cd build/classes/kotlin/main/info/lotharschulz/lazy/ && procyon Dearlazy && cd ../../../../../../..
 ```
 
+I am happy about your [contributions](CONTRIBUTING.md) :relaxed:.
+
 ### Links
 
 - https://youtu.be/MYQWtNG2so8?list=LLaVcONSNkhDcKwqzpYHUajA&t=150

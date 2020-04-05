@@ -1,5 +1,7 @@
 # Exploration of how Kotlin 1.4 optimizes compilation of **lazy** as delegated property
 
+How Kotlin 1.4 optimizes compilation of **lazy** and how to use it in Kotlin 1.3
+
 ### Preconditions
 - [kotlin 1.4M1](https://blog.jetbrains.com/kotlin/2020/03/kotlin-1-4-m1-released/) ([how to try](https://kotlinlang.org/eap/configure-build-for-eap.html))
 - [kotlin 1.3.X](https://blog.jetbrains.com/kotlin/2020/03/kotlin-1-3-70-released/)
